@@ -1,0 +1,76 @@
+h1{
+    counter-reset: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+p{
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+img{
+    width: 500px;
+    text-align: center;
+    align-items: center;
+    margin-top: 500px;
+    border-radius: 500px;
+    height: 500px;
+}
+
+video{
+    width: 300px;
+
+    text-align: center;
+    align-items: center;
+    margin-top: 300px;  
+}
+div{align-items: center;
+    text-align: center;
+}
+body{
+    background-image: url(https://mx.images.search.yahoo.com/images/view;_ylt=AwrO.yOEVdZlkOwgsCvF8Qt.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzQxOWE1YmUxZDZhZTc4NGI0YzljMzRlNDUxYzQ5Y2ZjBGdwb3MDNARpdANiaW5n?back=https%3A%2F%2Fmx.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dpaisajes%2Bgif%26type%3DE210MX91215G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D4&w=800&h=540&imgurl=1.bp.blogspot.com%2F-B42E0UkiV-M%2FXSnjZjdhKSI%2FAAAAAAAAL4o%2Ffy2J6fXSl98WbtMYbAklhtw3ss2xODx5ACLcBGAs%2Fs1600%2FPaisaje-refelejo-naturaleza-2.gif&rurl=https%3A%2F%2Fgifanimados-23.blogspot.com%2F2019%2F08%2Fgif-animados-de-paisajes.html&size=1143.7KB&p=paisajes+gif&oid=419a5be1d6ae784b4c9c34e451c49cfc&fr2=piv-web&fr=mcafee&tt=Gif+animados+andy%3A+Gif+animados+de+paisajes&b=0&ni=21&no=4&ts=&tab=organic&sigr=5BoJbkHSHNwe&sigb=kho.CpgVdXmd&sigi=K6TW8cwpP15P&sigt=n7kvDIZLQZZa&.crumb=ZeJaGJv2ZoE&fr=mcafee&fr2=piv-web&type=E210MX91215G0
+    );
+
+}
+
+
+
+body {
+    position: relative;
+    margin: 0;
+  }
+  .sect {
+    width: 100%;
+    min-height: 500px;
+  }
+  #sect1,
+  #sect3 {
+    background-color: #3333337d;
+    color: #fff;
+  }
+  #sect2 {
+    background-color: #dddddd7d;
+    color: #333;
+  }
+  
+  .yo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 105%;
+    min-height: 100%;
+    transform: translateX(calc((100% - 100vw) / 2));
+    z-index: -2;
+  }
+  h1 {
+    margin: 0;
+    padding-top: 3rem;
+    padding-left: 2rem;
+  }
+  h2 {
+    margin: 0;
+    padding-top: 3rem;
+    padding-left: 2rem;
+  }
